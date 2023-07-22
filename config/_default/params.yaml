@@ -17,16 +17,16 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'University of Utah'
+    description: 'Bo Zhang's Homepage, High Performance Computing'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''  
   verification:
-    google: ''
+    google: 'GW3R86UAR1SfQsDcmApqQV5T6Mq1qVIaT_We7veUaxU'
     baidu: ''
 
 # Site header
