@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'University of Utah'
-    description: 'Bo Zhang's Homepage, High Performance Computing'
+    org_name: "University of Utah"
+    description: "Bo Zhang's Homepage, High Performance Computing"
     twitter: ''
   analytics:
     google_analytics: ''
@@ -26,7 +26,7 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''  
   verification:
-    google: 'GW3R86UAR1SfQsDcmApqQV5T6Mq1qVIaT_We7veUaxU'
+    google: "GW3R86UAR1SfQsDcmApqQV5T6Mq1qVIaT_We7veUaxU"
     baidu: ''
 
 # Site header
