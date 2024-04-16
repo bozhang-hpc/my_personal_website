@@ -17,12 +17,12 @@ last_name: Zhang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Post-Doctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The University of Utah
-    url: https://www.utah.edu/
+  - name: Scientific Computing and Imaging Institute, The University of Utah
+    url: https://www.sci.utah.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: "HPC Young Blood | Research Interests: Extreme-scale Data Management and Scalable Deep Learning on Supercomputers."
@@ -39,7 +39,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: The University of Utah
-      year: Expected 2024
+      year: 2024
     - course: B.E. in Telecommunication Engineering
       institution: Beijing University of Posts and Telecommunications
       year: 2018
@@ -112,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Bo Zhang is a Ph.D. candidate in the [Scientific Computing and Imaging (SCI) Institute](https://www.sci.utah.edu/) at The University of Utah, under the supervision of [Prof. Manish Parashar](https://www.manishparashar.org/). He received his bachelor degree in telecommunication engineering from Beijing University of Posts and Telecommunications in 2018. His research interests include high-performance computing, extreme-scale data management, in-situ processing and scalable deep learning on supercomputers. In the past five years, he mainly worked on the workflow-level I/O abstraction for GPU-dense supercomputers.
+Bo Zhang is a Post-Doctoral Research Associate in the [Scientific Computing and Imaging (SCI) Institute](https://www.sci.utah.edu/) at The University of Utah. He received his Ph.D. in Computer Science from The University of Utah in 2024, under the supervision of [Prof. Manish Parashar](https://www.manishparashar.org/). He received his bachelor degree in telecommunication engineering from Beijing University of Posts and Telecommunications in 2018. His research interests include high-performance computing, extreme-scale data management, in-situ processing and scalable deep learning on supercomputers. In the past five years, he mainly worked on the workflow-level I/O abstraction for GPU-dense supercomputers.
 {style="text-align: justify;"}

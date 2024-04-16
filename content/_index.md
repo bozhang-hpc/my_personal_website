@@ -78,13 +78,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Post-Doctoral Research Associate
+          company: "Scientific Computing and Imaging Institute, The University of Utah"
+          company_url: 'https://www.sci.utah.edu/'
+          company_logo: "SCI-logo"
+          location: "Salt Lake City, Utah"
+          date_start: '2024-04-16'
+          date_end: ''
+
         - title: Graduate Research Assistant
           company: "Scientific Computing and Imaging Institute, The University of Utah"
           company_url: 'https://www.sci.utah.edu/'
           company_logo: "UU-logo"
           location: "Salt Lake City, Utah"
           date_start: '2022-01-01'
-          date_end: ''
+          date_end: '2024-04-15'
           description: "Collaborate with Sandia National Lab, Oak Ridege National Lab and NASA."
 
         - title: "Intern, Neural Processor Lab Research Scientist"
