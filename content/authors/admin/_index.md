@@ -106,7 +106,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1Oekg9wyGKwR3xboWrEGZ1XPnRxTBJmUL/view?usp=sharing
+    link: https://drive.google.com/file/d/1gRzu1YmmysSNMrbfywsZ6YoRt-fMRdOU/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -114,3 +114,6 @@ highlight_name: true
 
 Bo Zhang is a Post-Doctoral Research Associate in the [Scientific Computing and Imaging (SCI) Institute](https://www.sci.utah.edu/) at The University of Utah. He received his Ph.D. in Computer Science from The University of Utah in 2024, under the supervision of [Prof. Manish Parashar](https://www.manishparashar.org/). He received his bachelor degree in telecommunication engineering from Beijing University of Posts and Telecommunications in 2018. His research interests include high-performance computing, extreme-scale data management, in-situ processing and scalable deep learning on supercomputers. In the past five years, he mainly worked on the workflow-level I/O abstraction for GPU-dense supercomputers.
 {style="text-align: justify;"}
+
+Bo is on the academic job market for tenure-track positions starting from Fall 2025. Feel free to reach out if your department has open positions.
+{style="text-align: justify; color: red;"}
