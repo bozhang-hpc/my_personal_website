@@ -3,6 +3,7 @@ title: "OpenFold: Retraining AlphaFold2 yields new insights into its learning me
 authors:
   - Gustaf Ahdritz
   - Nazim Bouatta
+  - Christina Floristean
   - Sachin Kadyan
   - Qinghui Xia
   - William Gerecke
@@ -24,28 +25,33 @@ authors:
   - Lucas Nivon
   - Brian Weitzner
   - "Yih-En Andrew Ban"
+  - Shiyang Chen
+  - Minjia Zhang
+  - Conglong Li
+  - Shuaiwen Leon Song
+  - Yuxiong He
   - Peter K Sorger
   - Emad Mostaque
   - Zhao Zhang
   - Richard Bonneau
   - Mohammed AlQuraishi
 
-date: "2022-11-24T00:00:00Z"
-doi: "https://doi.org/10.1101/2022.11.20.517210"
+date: "2024-05-14T00:00:00Z"
+doi: "https://doi.org/10.1038/s41592-024-02272-z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-07-20T00:00:00Z"
+publishDate: "2024-05-20T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['artical']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "bioRxiv"
-publication_short: "bioRxiv"
+publication: "Nature Methods"
+publication_short: "Nature Methods"
 
-abstract: AlphaFold2 revolutionized structural biology with the ability to predict protein structures with exceptionally high accuracy. Its implementation, however, lacks the code and data required to train new models. These are necessary to (i) tackle new tasks, like protein-ligand complex structure prediction, (ii) investigate the process by which the model learns, which remains poorly understood, and (iii) assess the model’s generalization capacity to unseen regions of fold space. Here we report OpenFold, a fast, memory-efficient, and trainable implementation of AlphaFold2, and OpenProtein-Set, the largest public database of protein multiple sequence alignments. We use OpenProteinSet to train OpenFold from scratch, fully matching the accuracy of AlphaFold2. Having established parity, we assess OpenFold’s capacity to generalize across fold space by retraining it using carefully designed datasets. We find that OpenFold is remarkably robust at generalizing despite extreme reductions in training set size and diversity, including near-complete elisions of classes of secondary structure elements. By analyzing intermediate structures produced by OpenFold during training, we also gain surprising insights into the manner in which the model learns to fold proteins, discovering that spatial dimensions are learned sequentially. Taken together, our studies demonstrate the power and utility of OpenFold, which we believe will prove to be a crucial new resource for the protein modeling community.
+abstract: AlphaFold2 revolutionized structural biology with the ability to predict protein structures with exceptionally high accuracy. Its implementation, however, lacks the code and data required to train new models. These are necessary to (1) tackle new tasks, like protein–ligand complex structure prediction, (2) investigate the process by which the model learns and (3) assess the model’s capacity to generalize to unseen regions of fold space. Here we report OpenFold, a fast, memory efficient and trainable implementation of AlphaFold2. We train OpenFold from scratch, matching the accuracy of AlphaFold2. Having established parity, we find that OpenFold is remarkably robust at generalizing even when the size and diversity of its training set is deliberately limited, including near-complete elisions of classes of secondary structure elements. By analyzing intermediate structures produced during training, we also gain insights into the hierarchical manner in which OpenFold learns to fold. In sum, our studies demonstrate the power and utility of OpenFold, which we believe will prove to be a crucial resource for the protein modeling community.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
