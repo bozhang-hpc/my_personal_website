@@ -25,14 +25,14 @@ organizations:
     url: https://www.sci.utah.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "HPC Young Blood | Research Interests: Extreme-scale Data Management and Scalable Deep Learning on Supercomputers."
+bio: "HPC Young Blood | Research Interests: Extreme-scale Data Management and Heterogeneous Digital Twin Workflow."
 
 # Interests to show in About widget
 interests:
   - High-Performance Computing
   - Exascale Data Management
   - In-Situ Processing
-  - Scalable Deep Learning on HPC
+  - Digital Twin Workflow
 
 # Education to show in About widget
 education:
@@ -97,7 +97,7 @@ social:
     link: https://scholar.google.com/citations?user=MiRXDGYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/Zhang690683220
+    link: https://github.com/bozhang-hpc
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/bo-zhang-a31470176/
@@ -106,13 +106,13 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1SRUJ9AVs_gMSwE67XpPwnmgfKK-CUKy7/view?usp=sharing
+    link: https://drive.google.com/file/d/18tzsRp4T_IwSJSJfg58Zreibf4ynHsmX/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Bo Zhang is a Post-Doctoral Research Associate in the [Scientific Computing and Imaging (SCI) Institute](https://www.sci.utah.edu/) at The University of Utah. He received his Ph.D. in Computer Science from The University of Utah in 2024, under the supervision of [Prof. Manish Parashar](https://www.manishparashar.org/). He received his bachelor degree in telecommunication engineering from Beijing University of Posts and Telecommunications in 2018. His research interests include high-performance computing, extreme-scale data management, in-situ processing and scalable deep learning on supercomputers. In the past five years, he mainly worked on the workflow-level I/O abstraction for GPU-dense supercomputers.
+Bo Zhang is a Post-Doctoral Research Associate in the [Scientific Computing and Imaging (SCI) Institute](https://www.sci.utah.edu/) at The University of Utah. He received his Ph.D. in Computer Science from The University of Utah in 2024, under the supervision of [Prof. Manish Parashar](https://www.manishparashar.org/). He received his bachelor degree in telecommunication engineering from Beijing University of Posts and Telecommunications in 2018. His research interests include high-performance computing, extreme-scale data management, in-situ processing, and heterogeneous digital twin workflow. In the past five years, he mainly worked on the workflow-level I/O abstraction for GPU-dense supercomputers.
 {style="text-align: justify;"}
 
 Bo is on the academic job market for tenure-track positions starting from Fall 2025. Feel free to reach out if your department has open positions.

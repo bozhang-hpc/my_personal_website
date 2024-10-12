@@ -275,7 +275,7 @@ sections:
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: 72 S Central Campus Drive, Room 3760
+        street: 72 S Central Campus Drive, Room 2646
         city: Salt Lake City
         region: Utah
         postcode: '84112'
